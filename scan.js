@@ -1,0 +1,1 @@
+const QRScanner = require('qr-scanner')
